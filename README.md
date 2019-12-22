@@ -1,5 +1,7 @@
 # first-reposit
-first edit etc
+first edit etc.
+
+So, reverted the changes done by this branch on master, deleted this branch and then restored this branch again to make the same changes again.
 
 So, I have created myfirst branch and uploaded a simple front-end project, still unsure whether it will work or not.
 
